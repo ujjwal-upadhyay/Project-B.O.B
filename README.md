@@ -1,7 +1,7 @@
 # Project-B.O.B
-This is a project that can be used for collecting objects like plastics in the water bodies to reduce Water Pollution.
+This is a project that can be used for collecting objects like plastics in the water bodies to reduce **water pollution**.
 
-✪ Components of Project B.O.B:-
+✪ **Components of Project B.O.B:-**
 
 ➛ Base part
 
